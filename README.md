@@ -50,24 +50,9 @@ Feitas estas instalações, basta baixar o arquivo do dataset e o arquivo do có
     </tr>
   </tbody>
 </table>
-</div>
 
 ### Produtos mais e menos vendidos
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -99,7 +84,6 @@ Feitas estas instalações, basta baixar o arquivo do dataset e o arquivo do có
     </tr>
   </tbody>
 </table>
-</div>
 
 ![products_by_quantity](products_by_quantity.png)
 
@@ -107,20 +91,6 @@ Feitas estas instalações, basta baixar o arquivo do dataset e o arquivo do có
 
 ### 5 primeiros clientes que mais compram
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -157,7 +127,6 @@ Feitas estas instalações, basta baixar o arquivo do dataset e o arquivo do có
     </tr>
   </tbody>
 </table>
-</div>
 
 ![products_by_customer](products_by_customer.png)
 
@@ -165,20 +134,6 @@ Feitas estas instalações, basta baixar o arquivo do dataset e o arquivo do có
 
 ![frequency_by_customer](frequency_by_customer.png)
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -234,4 +189,3 @@ Feitas estas instalações, basta baixar o arquivo do dataset e o arquivo do có
     </tr>
   </tbody>
 </table>
-</div>
