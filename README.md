@@ -34,12 +34,13 @@ Feitas estas instalações, basta baixar o arquivo do dataset e o arquivo do có
 
 ### Produto mais lucrativo
 
+<div>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>product</th>
-      <th>profit</th>
+      <th>Produto</th>
+      <th>Lucro</th>
     </tr>
   </thead>
   <tbody>
@@ -50,15 +51,17 @@ Feitas estas instalações, basta baixar o arquivo do dataset e o arquivo do có
     </tr>
   </tbody>
 </table>
+</div>
 
 ### Produtos mais e menos vendidos
 
+<div>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>product</th>
-      <th>quantity</th>
+      <th>Produto</th>
+      <th>Quantidade</th>
     </tr>
   </thead>
   <tbody>
@@ -84,10 +87,40 @@ Feitas estas instalações, basta baixar o arquivo do dataset e o arquivo do có
     </tr>
   </tbody>
 </table>
+</div>
 
-![products_by_quantity](products_by_quantity.png)
+![products_by_quantity](graph_results/products_by_quantity.png)
 
-![products_by_group](products_by_group.png)
+<div>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Grupo_produto</th>
+      <th>Quantidade</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>C</td>
+      <td>911</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>A</td>
+      <td>762</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>B</td>
+      <td>686</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+![products_by_group](graph_results/products_by_group.png)
 
 ### 5 primeiros clientes que mais compram
 
@@ -128,11 +161,11 @@ Feitas estas instalações, basta baixar o arquivo do dataset e o arquivo do có
   </tbody>
 </table>
 
-![products_by_customer](products_by_customer.png)
+![products_by_customer](graph_results/products_by_customer.png)
 
 ### Frequência de compra por cliente
 
-![frequency_by_customer](frequency_by_customer.png)
+![frequency_by_customer](graph_results/frequency_by_customer.png)
 
 <table border="1" class="dataframe">
   <thead>
