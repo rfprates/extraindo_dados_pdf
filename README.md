@@ -18,6 +18,7 @@ Desenvolver as seguintes métricas:
 
 Para executar o código deste projeto é necessário instalar as seguintes bibliotecas:
 * tabula
+* numpy
 * pandas
 * seaborn
 * matplotlib
