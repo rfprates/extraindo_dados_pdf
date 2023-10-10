@@ -30,7 +30,7 @@ Feitas estas instalações, basta baixar o arquivo do dataset e o arquivo do có
 
 ### Lucro por produto
 
-![profit_by_product](graph_results\profit_by_product.png)
+![profit_by_product](profit_by_product.png)
 
 ### Produto mais lucrativo
 
