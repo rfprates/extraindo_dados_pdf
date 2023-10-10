@@ -12,7 +12,7 @@ Desenvolver as seguintes métricas:
 * Produto mais lucrativo;
 * Produtos mais e menos vendidos;
 * 5 primeiros clientes que mais compram;
-* Frequência de compra por cliente.`
+* Frequência de compra por cliente.
 
 ## Deployment
 
